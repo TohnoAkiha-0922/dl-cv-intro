@@ -1,0 +1,16 @@
+# 数据集（体积大，不入库）
+data/
+
+# 训练好的模型（体积大，不入库）
+*.pth
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+env/
