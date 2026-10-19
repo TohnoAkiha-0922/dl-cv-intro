@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+outputs/
+*.pt
+*.pth
+*.npz
+
+# Local AI Cabinet session export
+docs/cabinet-record.json
