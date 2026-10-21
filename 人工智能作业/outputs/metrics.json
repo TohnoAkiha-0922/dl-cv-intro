@@ -1,0 +1,82 @@
+{
+  "test": {
+    "images": 1500,
+    "tp": 3350,
+    "fp": 531,
+    "fn": 421,
+    "precision": 0.8631795928884308,
+    "recall": 0.8883585255900291,
+    "f1": 0.8755880815473078,
+    "mean_matched_iou": 0.7307939296871868,
+    "conf_thresh": 0.4,
+    "nms_iou_thresh": 0.5,
+    "matching_iou_thresh": 0.5
+  },
+  "validation_threshold_search": [
+    {
+      "images": 1200,
+      "tp": 2717,
+      "fp": 659,
+      "fn": 245,
+      "precision": 0.8047985781990521,
+      "recall": 0.9172856178257934,
+      "f1": 0.8573682549700221,
+      "mean_matched_iou": 0.7291883092879548,
+      "conf_thresh": 0.2,
+      "nms_iou_thresh": 0.5,
+      "matching_iou_thresh": 0.5
+    },
+    {
+      "images": 1200,
+      "tp": 2679,
+      "fp": 509,
+      "fn": 283,
+      "precision": 0.8403387703889585,
+      "recall": 0.9044564483457124,
+      "f1": 0.871219512195122,
+      "mean_matched_iou": 0.7302752490495736,
+      "conf_thresh": 0.3,
+      "nms_iou_thresh": 0.5,
+      "matching_iou_thresh": 0.5
+    },
+    {
+      "images": 1200,
+      "tp": 2637,
+      "fp": 395,
+      "fn": 325,
+      "precision": 0.8697229551451188,
+      "recall": 0.8902768399729912,
+      "f1": 0.8798798798798799,
+      "mean_matched_iou": 0.7313506466039528,
+      "conf_thresh": 0.4,
+      "nms_iou_thresh": 0.5,
+      "matching_iou_thresh": 0.5
+    },
+    {
+      "images": 1200,
+      "tp": 2559,
+      "fp": 337,
+      "fn": 403,
+      "precision": 0.8836325966850829,
+      "recall": 0.8639432815665091,
+      "f1": 0.8736770228747013,
+      "mean_matched_iou": 0.7324661526795522,
+      "conf_thresh": 0.5,
+      "nms_iou_thresh": 0.5,
+      "matching_iou_thresh": 0.5
+    },
+    {
+      "images": 1200,
+      "tp": 2446,
+      "fp": 290,
+      "fn": 516,
+      "precision": 0.8940058479532164,
+      "recall": 0.825793382849426,
+      "f1": 0.8585468585468586,
+      "mean_matched_iou": 0.7340511075805077,
+      "conf_thresh": 0.6,
+      "nms_iou_thresh": 0.5,
+      "matching_iou_thresh": 0.5
+    }
+  ]
+}
